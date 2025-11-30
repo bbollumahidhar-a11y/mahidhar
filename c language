@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+String hi;
+printf("enter a string");
+scanf("%d",&s);
+}
